@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Panini (Official Video)",
+  "base_artist": "Lil Nas X",
+  "createdAt": "2026-02-21T01:08:22.061780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/01_Panini_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/02_Panini_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/03_Panini_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/04_Panini_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/05_Panini_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Little V.",
+      "has_synced": false,
+      "path": "select/06_Panini_Little_V..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/07_Panini_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Fly By Nightcore",
+      "has_synced": false,
+      "path": "select/08_Panini_Fly_By_Nightcore.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Panini",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/09_Panini_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Panini Pua Kea",
+      "artist": "Israel Kamakawiwo'ole",
+      "has_synced": true,
+      "path": "select/10_Panini_Pua_Kea_Israel_Kamakawiwo'ole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Panini - DaBaby Remix",
+      "artist": "Lil Nas X feat. DaBaby",
+      "has_synced": true,
+      "path": "select/11_Panini_-_DaBaby_Remix_Lil_Nas_X_feat._DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Panini - DaBaby Remix",
+      "artist": "Lil Nas X/DaBaby",
+      "has_synced": true,
+      "path": "select/12_Panini_-_DaBaby_Remix_Lil_Nas_X_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Panini (Metal Version)",
+      "artist": "Little V.",
+      "has_synced": false,
+      "path": "select/13_Panini_(Metal_Version)_Little_V..txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Panini (DaBaby Remix)",
+      "artist": "Lil Nas X/DaBaby",
+      "has_synced": true,
+      "path": "select/14_Panini_(DaBaby_Remix)_Lil_Nas_X_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Panini - DaBaby Remix",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/15_Panini_-_DaBaby_Remix_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Panini",
+      "artist": "LIL NAS X",
+      "has_synced": false,
+      "path": "select/pl_01_Panini_LIL_NAS_X.txt"
+    }
+  ]
+}
